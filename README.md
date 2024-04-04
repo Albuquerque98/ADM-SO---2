@@ -1,2 +1,1 @@
-ADM Sistema Operacional 2
-Esse é o README desse repositório
+README do primeiro commite feito das aulas de Linux + GitHUb
